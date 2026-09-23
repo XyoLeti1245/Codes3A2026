@@ -1,0 +1,21 @@
+body{
+    background-color: yellow;
+
+}
+#tcss{
+	font-family:ariel black;
+	font-size: 40px;
+	color:red;
+	-webkit-text-stroke-width:2px; /*largura do contorno*/
+	-webkit-text-stroke-color:black;/*cor do contorno*/
+	
+}
+
+
+.caixa2{
+	width:20%;
+	height: 50vth;
+	background: 50vh;
+	background: light gray;
+	border-radius: 29px;
+}
